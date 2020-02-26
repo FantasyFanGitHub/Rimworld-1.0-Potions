@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[1.0] Potions</name>
+	<author>FantasyFan</author>
+	<targetVersion>1.0.2059</targetVersion>
+	<description>
+Have you ever wanted to be a witch and brew many potions. Now you can.
+
+This mod adds eight different potions:
+-Potion of saturation (like a meal)
+-Potion of life (like resurrector mech serum)
+-Healing potion (like healer mech serum)
+-Potion of knowledge (like techprof subpersona core)
+-Potion of skills (like neurotrainer mech serum)
+-Luziferium potion (like Luziferium)
+-Potion of stats (temporary stat boost - like move speed/sight/...)
+-Drug potion (something like the core drugs/alcohol)
+
+One new workbench:
+-Cauldron (uses wood as fuel, workbench to brew potions)
+
+Eight research projects
+
+One new plant:
+-Magic flower (Wind Daisy - turn bloom into magical dust)
+
+
+Can be safely added to existing saves.
+
+
+If you find things unbalanced, please make suggestions for improvement.
+	</description>
+</ModMetaData>
